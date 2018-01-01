@@ -122,7 +122,7 @@ product price, etc.) from the various milestones.
 
 **Hands on Lab:**
 
-[BiQ - Business Journey Lab](file:../05_bizjourneylab/bizjourneylab.md)
+[BiQ - Business Journey Lab](https://github.com/smazzone/biqworkshop/blob/master/05_bizjourneylab/bizjourneylab.md)
 
 ### Sample dashboard
 
@@ -193,6 +193,4 @@ NOTE: You need a count distinct field - This is a unique value that goes
 through the funnel, a value which is present and unique across each step
 (i.e. SessionId, LoanId, etc)
 NOTE: A unique value is not an identifier of unique transaction.
-Because, the next step in the funnel may not have the same identifier.  
-
-
+Because, the next step in the funnel may not have the same identifier.
