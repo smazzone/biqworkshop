@@ -119,7 +119,7 @@ Usually, SessionId is a good candidate.  
 **Hands on Lab:**
 
 
-[BiQ - User Journeys Lab](file:../02_userjourneylab/userjourneylab.md)
+[BiQ - User Journeys Lab](https://github.com/smazzone/biqworkshop/blob/master/02_userjourneylab/userjourneylab.md)
 
 Sample dashboards
 -----------------

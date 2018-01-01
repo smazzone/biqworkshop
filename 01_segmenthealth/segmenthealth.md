@@ -106,7 +106,7 @@ segment.
 
 
 [BiQ - Segment Health
-Lab](file:../01_segmenthealthlab/segmenthealthlab.md)
+Lab](https://github.com/smazzone/biqworkshop/blob/master/01_segmenthealthlab/segmenthealthlab.md)
 
 Sample dashboards
 -----------------

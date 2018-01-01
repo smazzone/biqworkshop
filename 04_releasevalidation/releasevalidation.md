@@ -128,7 +128,7 @@ Usually, SessionId is a good candidate.  
 **Hands on Lab:**
 
 [BiQ - Release Validation
-Lab](file:../04_releasevalidationlab/releasevalidationlab.md)
+Lab](https://github.com/smazzone/biqworkshop/blob/master/04_releasevalidationlab/releasevalidationlab.md)
 
 Sample dashboards  ![](.//media/image1.png)
 ------------------------------------------

@@ -106,7 +106,7 @@ How to realize this use case
 
 
 [BiQ - Business Health
-Lab](file:../03_bizhealthlab/bizhealthlab.md)
+Lab](https://github.com/smazzone/biqworkshop/blob/master/03_bizhealthlab/bizhealthlab.md)
 
 Sample dashboards  ![](.//media/image1.png)
 ------------------------------------------
