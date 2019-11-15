@@ -11,7 +11,7 @@ execute the following
     Server.  Go to
     [http://](http://controller_ip:8090/)[CONTROLLER_DNS_NAME](http://CONTROLLER_IP:9191)[:8090](http://controller_ip:8090/)
     in a browser.  You can login to the Controller with the credentials
-    appdadmin/d3m0@ppD*
+    \***
 
 > *Validate that you see active load for **AD-Travel**, **eCommerce**,
 > and **fulfillment** applications (**It can take a few minutes for data
